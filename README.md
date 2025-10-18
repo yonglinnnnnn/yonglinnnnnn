@@ -51,10 +51,8 @@
 </div>
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yonglinnnnnn&theme=light&background=ffffff)](https://git.io/streak-stats)
+![yonglinnnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonglinnnnnn&show_icons=true&theme=onedark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonglinnnnnn&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
 
 <div align="center">
   <i>Happy coding! 💻</i>
