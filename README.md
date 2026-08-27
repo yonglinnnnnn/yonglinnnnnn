@@ -5,7 +5,7 @@ I enjoy building tech for good and solutions to solve problems
 
 - 🌱 **Currently Exploring & Learning:** AI, ML, AI-powered solutions, Data Engineering
 - 🌟 **Hobbies:** Engaging with the community, listening to music, and learning about forensic science.
-- 📫 Feel free to connect with me on LinkedIn, or @ yonglinxx@gmail.com
+- 📫 Feel free to connect with me on LinkedIn, or via email
 
 <a href="https://www.linkedin.com/in/yonglin-xu/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
