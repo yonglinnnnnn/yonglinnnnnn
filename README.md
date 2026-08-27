@@ -1,8 +1,11 @@
-## 👨‍💻 About Me
+# Hi there, I'm Yong Lin 👋
 
-- 💬 Ask me about anything - I'm always happy to help!
-- 🤔 Currently learning: **C**
-- 📫 Feel free to connect with me on LinkedIn
+### 👨🏻‍💻 CS  @ NUS | Minor in Data Analytics | Full Stack Developer | ML Enthusiast 
+I enjoy building tech for good and solutions to solve problems
+
+- 🌱 **Currently Exploring & Learning:** AI, ML, AI-powered solutions, Data Engineering
+- 🌟 **Hobbies:** Engaging with the community, listening to music, and learning about forensic science.
+- 📫 Feel free to connect with me on LinkedIn, or @ yonglinxx@gmail.com
 
 <a href="https://www.linkedin.com/in/yonglin-xu/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend Development & Tooling
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
 </div>
 
 ### Backend & Database
@@ -31,29 +36,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
 ### Programming Languages
 <div>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
-### Tools & Other
+### Tools, Environments & Frameworks
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="JetpackCompose" alt="JetpackCompose" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-
-</div>
-
-## 📊 GitHub Stats  
-![yonglinnnnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonglinnnnnn&show_icons=true&theme=onedark)
-
-
-<div align="center">
-  <i>Happy coding! 💻</i>
 </div>
